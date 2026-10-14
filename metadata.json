@@ -1,0 +1,6 @@
+{
+  "name": "Get Married Matchmaking Platform (GMMP)",
+  "description": "Connecting intentional, marriage-minded singles to their lifelong spouses with discretion, verified profiles, and personalized matchmaking consultations via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
